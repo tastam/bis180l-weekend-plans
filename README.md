@@ -1,1 +1,1 @@
-# bis180l-practice
+# bis180l-weekend-plans
