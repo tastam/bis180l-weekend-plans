@@ -1,0 +1,29 @@
+commit dc63887ef97141222550ec1c7232ea17e69bd4a0
+Author: jacieee <jicheng@ucdavis.edu>
+Date:   Thu Mar 31 16:38:28 2022 -0700
+
+    using github in atom
+
+commit f7c604658627007f09f2b2f1ff8ecda2102aecaa
+Author: jacieee <jicheng@ucdavis.edu>
+Date:   Thu Mar 31 16:20:31 2022 -0700
+
+    updated with my answer
+
+commit 5b4d752b6a79873e01a4e68282bd153458340b20
+Author: tastam <97649303+tastam@users.noreply.github.com>
+Date:   Thu Mar 31 16:03:56 2022 -0700
+
+    Update README.md
+
+commit 7158d678091ddc147ddfa8e6e95a7855eabd9e12
+Author: Tammie Tam <tastam@ucdavis.edu>
+Date:   Thu Mar 31 15:44:43 2022 -0700
+
+    add weekend plans
+
+commit 57d0dcad6d4abec8efa47c489e0443b3f6ffb76c
+Author: tastam <97649303+tastam@users.noreply.github.com>
+Date:   Thu Mar 31 15:41:06 2022 -0700
+
+    Initial commit
